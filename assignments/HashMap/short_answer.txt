@@ -1,0 +1,6 @@
+Assignment 3: STL HashMap (short answer questions)
+Names: zhaomo
+
+1. at() vs []
+Q: Explain the difference between at() and the implementation of the operator []. Wy did you have to overload one and not the other?
+A: 
